@@ -1,0 +1,13 @@
+---
+title: "Mike's Project Homepage"
+author: "Michael France Nelson"
+date: "11/18/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome to Mike's class page!
+
